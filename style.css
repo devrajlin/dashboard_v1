@@ -1,0 +1,159 @@
+.container{
+	position: relative;
+	float: center;
+}
+#header{
+	position: relative;
+	padding: 18px;
+	width:100%;
+	margin-top: 0px;
+	margin-left: 2px;
+	font-size: 20px;
+	font-family:serif;
+/*	text-align: center;*/
+border-radius:8px;
+	background-color: #ff9966;
+	color:black;
+
+}
+#grade{
+	padding: 0px 35px;
+	margin-right: 80px;
+	font-size:18px;
+	height: 115px;
+	border-radius: 8px;
+}
+/*#grad2{
+	position: relative;
+	width: 100%;
+}
+#grade3{
+	position: relative;
+	width: 100%;
+}*/
+#date{
+/*	margin-left: 0%;
+*/}
+#buttons{
+	position: relative;
+/*	margin-left: 2%;
+*/}
+.increment{
+	position: relative;
+	margin-left:8%;
+}
+#btn1{
+	padding: 25px 30px;
+	border-radius: 6px;
+	margin-left: 10px;
+	font-size:15px;
+	font-family: "Montserrat", sans-serif;
+}
+#btn2{
+	position: relative;
+	border-radius: 6px;
+	padding: 25px 30px;
+	font-size:15px;
+	font-family: "Montserrat", sans-serif;
+/*	margin-left: 200px;
+*/}
+#btn3{
+	position: relative;
+	border-radius: 6px;
+	padding: 25px 30px;
+	font-size:15px;
+	font-family: "Montserrat", sans-serif;
+/*	margin-left: 200px;
+*/}
+#but1{
+	padding: 13px 36px;
+	border-radius: 6px;
+	font-size:12px;
+	font-family:sans-serif;
+}
+#but2{
+		padding: 13px 36px;
+		border-radius: 6px;
+		font-size:12px;
+		font-family: "Montserrat", sans-serif;
+
+}
+#but3{
+		padding: 13px 36px;
+		border-radius: 6px;
+		font-size:12px;
+		font-family: "Montserrat", sans-serif;
+
+}
+#but4{
+		padding: 13px 36px;
+		border-radius: 6px;
+		font-size:12px;
+		font-family: "Montserrat", sans-serif;
+
+}
+#but5{
+		padding: 13px 36px;
+		border-radius: 6px;
+		font-size:12px;
+		font-family: "Montserrat", sans-serif;
+
+}
+#but6{
+		padding: 13px 36px;
+		border-radius: 6px;
+		font-size:12px;
+		font-family: "Montserrat", sans-serif;
+
+
+}
+#but7{
+		padding: 13px 36px;
+		border-radius: 6px;
+		font-size:12px;
+		font-family: "Montserrat", sans-serif;
+}
+#but8{
+		padding: 13px 36px;
+		border-radius: 12px;
+		font-size:12px;
+		font-family: "Montserrat", sans-serif;
+
+
+}
+.panel{
+		padding: 11px 40px;
+
+	  
+}
+#map {
+	color:grey;
+        height: 400px;  
+        width: 400px;
+       }
+  img{
+  	margin-left: 70px;
+  }
+  #table{
+  	padding: 40px 50px;
+  }
+  /*#rod{
+  	display: flex;
+  }
+  .flex-item{
+  	flex-grow:1;
+  }*/
+
+  .input-prepend-append {
+	display: inline-block;
+	width:100px;
+	height: 50px;
+	margin-top: 10px;
+	font-size: 0;
+	white-space: nowrap;
+	vertical-align: middle;
+}
+/*.right-column{
+	position: relative;
+	margin-left: 80px;
+}*/

@@ -11,7 +11,7 @@ What things you need to install the software and how to install them
 
 -> Make sure you have apache2 running in your system.
 -> Make sure you have node js installed in your system and run the file with command node app.js which was located in project/api/app.js
--> Then place project folder in your localhost and access the link localhost/project
+-> Then place all files in one folder called 'project' and place that folder in your localhost and access the link localhost/project
 
 ```
 
